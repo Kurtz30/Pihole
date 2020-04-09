@@ -1,4 +1,4 @@
-INDICATOR_VALUE
+NCSC COVID19 Malicious Domains 042020 TLP White
 coronavirus-tshirt.shop
 coronavirus-tshirts.shop
 coronavirustr.shop
